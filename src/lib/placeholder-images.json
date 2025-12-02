@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "MassageWave brand logo",
+      "imageUrl": "https://images.unsplash.com/photo-1496200186974-4293800e2c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsb2dvfGVufDB8fHx8MTc2NDUyMzQ0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "logo"
+    },
+    {
+      "id": "hero-product",
+      "description": "Hero product mockup of the MassageWave neck massager",
+      "imageUrl": "https://images.unsplash.com/photo-1712168044214-f5a272c23a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9kdWN0JTIwbW9ja3VwfGVufDB8fHx8MTc2NDYxNDA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product mockup"
+    },
+    {
+      "id": "action-video-thumb",
+      "description": "Thumbnail for the product in action video",
+      "imageUrl": "https://images.unsplash.com/photo-1522075782449-e45a34f1ddfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3b21hbiUyMHJlbGF4aW5nfGVufDB8fHx8MTc2NDYxNDA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman relaxing"
+    },
+    {
+      "id": "action-photo-1",
+      "description": "Lifestyle photo of someone using the massager while working",
+      "imageUrl": "https://images.unsplash.com/photo-1551434678-e076c223a692?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjB3b3JraW5nfGVufDB8fHx8MTc2NDYxNDA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person working"
+    },
+    {
+      "id": "action-photo-2",
+      "description": "Lifestyle photo of someone using the massager while relaxing on a couch",
+      "imageUrl": "https://images.unsplash.com/photo-1678441337083-4f16aa7ca949?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjByZWxheGluZ3xlbnwwfHx8fDE3NjQ2MTQwODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person relaxing"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for Sarah K.",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2NDU3Mzc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for Mike R.",
+      "imageUrl": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjQ1NjgxNTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for Emily T.",
+      "imageUrl": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2NDU2OTgzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Avatar for David L.",
+      "imageUrl": "https://images.unsplash.com/photo-1639747280804-dd2d6b3d88ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc2NDUxNjU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    }
+  ]
+}
